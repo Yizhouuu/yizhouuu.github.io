@@ -2,7 +2,7 @@
 /* Body */
 body {
 	font-family: source-sans-pro;
-	background-color: #f2f2f2;
+	background-color: #f9caca;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -22,8 +22,8 @@ body {
 header {
 	width: 100%;
 	height: 5%;
-	background-color: #52bad5;
-	border-bottom: 1px solid #2C9AB7;
+	background-color: #f9caca;
+	border-bottom: 1px solid #f9caca;
 }
 .logo {
 	color: #fff;
@@ -60,7 +60,7 @@ ul li a {
 	text-decoration: none;
 }
 ul li:hover a {
-	color: #2C9AB7;
+	color: #f9caca;
 }
 .hero_header {
 	color: #FFFFFF;
@@ -136,7 +136,7 @@ ul li:hover a {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 5px;
-	color: #52BAD5;
+	color: #f9caca;
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
@@ -147,7 +147,7 @@ ul li:hover a {
 }
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
+	background-color: #f9caca;
 	background-image: url(../images/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
@@ -355,7 +355,7 @@ nav ul li {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	color: #043745;
+	color: #f9caca;
 }
 .container header nav {
 	margin-top: 0px;
@@ -366,7 +366,7 @@ nav ul li {
 	float: none;
 	overflow: auto;
 	display: inline-block;
-	background: #52bad5;
+	background: #f9caca;
 }
 header nav ul {
 	padding: 0px;
